@@ -1,0 +1,1 @@
+web: ./build/install/kotlin-android-auth/bin/kotlin-android-auth
